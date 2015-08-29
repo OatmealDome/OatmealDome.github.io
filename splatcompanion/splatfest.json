@@ -1,0 +1,97 @@
+{
+    "na":{
+        "startTime":0,
+        "endTime":0,
+        "maps":[
+                "Port Mackerel",
+                "Saltspray Rig",
+                "Flounder Heights"
+                ],
+        "teams":[
+                 {
+                 "name":"Autobots",
+                 "colour":"991F40"
+                 },
+                 {
+                 "name":"Decepticons",
+                 "colour":"3B124D"
+                 },
+                 {
+                 "name":"NEUTRAL",
+                 "colour":"E6B40D"
+                 }
+                 ]
+    },
+    
+    "eu":{
+        "startTime":0,
+        "endTime":0,
+        "maps":[
+                "Port Mackerel",
+                "Saltspray Rig",
+                "Flounder Heights"
+                ],
+        "teams":[
+                 {
+                 "name":"Singing",
+                 "colour":"991F40"
+                 },
+                 {
+                 "name":"Dancing",
+                 "colour":"3B124D"
+                 },
+                 {
+                 "name":"NEUTRAL",
+                 "colour":"E6B40D"
+                 }
+                 ]
+    },
+    
+    "jp":{
+        "startTime":0,
+        "endTime":0,
+        "maps":[
+                "Port Mackerel",
+                "Saltspray Rig",
+                "Flounder Heights"
+                ],
+        "teams":[
+                 {
+                 "name":"",
+                 "colour":"991F40"
+                 },
+                 {
+                 "name":"",
+                 "colour":"3B124D"
+                 },
+                 {
+                 "name":"NEUTRAL",
+                 "colour":"E6B40D"
+                 }
+                 ]
+    },
+    
+    "exampleData":{
+        "startTime":0,
+        "endTime":0,
+        "maps":[
+                "Urchin Underpass",
+                "Saltspray Rig",
+                "Arowana Mall"
+                ],
+        "teams":[
+                 {
+                 "name":"Android",
+                 "colour":"ABCF01"
+                 },
+                 {
+                 "name":"iOS",
+                 "colour":"ABCF02"
+                 },
+                 {
+                 "name":"NEUTRAL",
+                 "colour":"ABCF03"
+                 }
+                 ]
+    }
+}
