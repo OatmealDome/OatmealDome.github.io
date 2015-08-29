@@ -1,7 +1,7 @@
 {
     "na":{
-        "startTime":0,
-        "endTime":0,
+        "startTime":1440820800,
+        "endTime":1440907200,
         "maps":[
                 "Port Mackerel",
                 "Saltspray Rig",
@@ -18,14 +18,26 @@
                  },
                  {
                  "name":"NEUTRAL",
-                 "colour":"E6B40D"
+                 "colour":"FDF24E"
                  }
-                 ]
+                 ],
+        "results":[
+                   {
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
+                   },
+                   {
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
+                   }
+                   ]
     },
     
     "eu":{
-        "startTime":0,
-        "endTime":0,
+        "startTime":1440867600,
+        "endTime":1440954000,
         "maps":[
                 "Port Mackerel",
                 "Saltspray Rig",
@@ -34,22 +46,34 @@
         "teams":[
                  {
                  "name":"Singing",
-                 "colour":"991F40"
+                 "colour":"FF004A"
                  },
                  {
                  "name":"Dancing",
-                 "colour":"3B124D"
+                 "colour":"00CF41"
                  },
                  {
                  "name":"NEUTRAL",
-                 "colour":"E6B40D"
+                 "colour":"FF9900"
                  }
-                 ]
+                 ],
+        "results":[
+                   {
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
+                   },
+                   {
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
+                   }
+                   ]
     },
     
     "jp":{
-        "startTime":0,
-        "endTime":0,
+        "startTime":1440212400,
+        "endTime":1440298800,
         "maps":[
                 "Port Mackerel",
                 "Saltspray Rig",
@@ -57,23 +81,35 @@
                 ],
         "teams":[
                  {
-                 "name":"",
+                 "name":"Grasshopper",
                  "colour":"991F40"
                  },
                  {
-                 "name":"",
+                 "name":"Ant",
                  "colour":"3B124D"
                  },
                  {
                  "name":"NEUTRAL",
-                 "colour":"E6B40D"
+                 "colour":"FF9900"
                  }
-                 ]
+                 ],
+        "results":[
+                   {
+                   "popularity":61,
+                   "winPercentage":53,
+                   "final":273
+                   },
+                   {
+                   "popularity":39,
+                   "winPercentage":47,
+                   "final":227
+                   }
+                   ]
     },
     
     "exampleData":{
-        "startTime":0,
-        "endTime":0,
+        "startTime":123456,
+        "endTime":654321,
         "maps":[
                 "Urchin Underpass",
                 "Saltspray Rig",
@@ -82,16 +118,30 @@
         "teams":[
                  {
                  "name":"Android",
-                 "colour":"ABCF01"
+                 "colour":"A4C639"
                  },
                  {
                  "name":"iOS",
-                 "colour":"ABCF02"
+                 "colour":"007AFF"
                  },
                  {
                  "name":"NEUTRAL",
-                 "colour":"ABCF03"
+                 "colour":"FDF24E"
                  }
-                 ]
-    }
+                 ],
+        "results":[
+                   {
+                   "popularity":49,
+                   "winPercentage":43,
+                   "final":221
+                   },
+                   {
+                   "popularity":51,
+                   "winPercentage":57,
+                   "final":279
+                   }
+                   ]
+    },
+    
+    "authorNote": "Don't take the above too seriously :P Android is great too!"
 }
