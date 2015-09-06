@@ -1,7 +1,9 @@
 {
     "na":{
+        "id":4,
         "startTime":1440820800,
         "endTime":1440907200,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/b/be/North_American_Splatfest_Autobots_vs_Decepticons3.jpg",
         "maps":[
                 "Port Mackerel",
                 "Saltspray Rig",
@@ -36,8 +38,10 @@
     },
     
     "eu":{
+        "id":4,
         "startTime":1440867600,
         "endTime":1440954000,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/5/5b/European_Splatfest_Singing_vs._Dancing.jpg",
         "maps":[
                 "Port Mackerel",
                 "Saltspray Rig",
@@ -72,8 +76,10 @@
     },
     
     "jp":{
+        "id":5,
         "startTime":1442026800,
         "endTime":1442113200,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/e/eb/Japanese_Splatfest_Boke_vs_Tsukkomi.jpg",
         "maps":[
                 "UNKNOWN_MAP",
                 "UNKNOWN_MAP",
@@ -110,6 +116,7 @@
     "exampleData":{
         "startTime":123456,
         "endTime":654321,
+        "image":"https://example.com/splatfest.jpg",
         "maps":[
                 "Urchin Underpass",
                 "Saltspray Rig",
