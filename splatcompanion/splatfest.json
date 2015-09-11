@@ -129,11 +129,11 @@
                 ],
         "teams":[
                  {
-                 "name":"Blue",
+                 "name":"Orange",
                  "colour":"F36409"
                  },
                  {
-                 "name":"Orange",
+                 "name":"Blue",
                  "colour":"219ADA"
                  },
                  {
@@ -156,6 +156,8 @@
     },
     
     "exampleData":{
+        "id":1,
+        "updateTime":0,
         "startTime":123456,
         "endTime":654321,
         "image":"https://example.com/splatfest.jpg",
