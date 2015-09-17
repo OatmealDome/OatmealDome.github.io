@@ -119,13 +119,13 @@
     "debug":{
         "id":2,
         "updateTime":1442025649,
-        "startTime":1442025649,
-        "endTime":1442098800,
+        "startTime":1442524671,
+        "endTime":1442611069,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/e/eb/Japanese_Splatfest_Boke_vs_Tsukkomi.jpg",
         "maps":[
                 "Urchin Underpass",
                 "Saltspray Rig",
-                "Arowana Mall"
+                "Hammerhead Bridge"
                 ],
         "teams":[
                  {
