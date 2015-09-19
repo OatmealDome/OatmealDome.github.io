@@ -1,0 +1,8 @@
+Origin: OatmealDome
+Label: OatmealDome's Repository
+Suite: stable
+Version: 1.0
+Codename: oatmealdomerepo
+Architectures: iphoneos-arm
+Components: main
+Description: OatmealDome's Cydia Emporium
