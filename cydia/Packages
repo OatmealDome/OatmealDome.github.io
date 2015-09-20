@@ -1,11 +1,11 @@
 Package: me.oatmealdome.SplatStages
-Version: 1.0-29
+Version: 1.0-30
 Section: Utilities
 Maintainer: OatmealDome <theoatmealdome@gmail.com>
 Architecture: iphoneos-arm
-Filename: ./debs//me.oatmealdome.splatstages_1.0-29.deb
-Size: 85204336
-MD5sum: e891c850ecb7195c1dc3e1eeae1aa399
+Filename: ./debs//me.oatmealdome.splatstages_1.0-30.deb
+Size: 85204436
+MD5sum: d0ca59d2ececd919f9d8aef2d166033f
 Description: An app that tells you the current stages for Splatoon.
 Name: SplatStages
 Author: OatmealDome <theoatmealdome@gmail.com>
