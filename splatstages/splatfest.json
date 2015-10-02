@@ -1,39 +1,39 @@
 {
     "na":{
         "id":5,
-        "updateTime":1442070719,
-        "startTime":1442635200,
-        "endTime":1442721600,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/d/dd/North_American_Splatfest_Art_vs_Science.jpg",
+        "updateTime":1443822615,
+        "startTime":1444449600,
+        "endTime":1444536000,
+        "image":"http://cdn.wikimg.net/splatoonwiki/images/d/dc/North_American_Splatfest_Cars_vs_Planes.jpg",
         "maps":[
-                "URCHIN_UNDERPASS",
-                "BLUEFIN_DEPOT",
-                "HAMMERHEAD_BRIDGE"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"Art",
-                 "colour":"c300f1"
+                 "name":"Car",
+                 "colour":"f98c19"
                  },
                  {
                  "name":"Science",
-                 "colour":"f3c12d"
+                 "colour":"144cc8"
                  },
                  {
                  "name":"NEUTRAL",
-                 "colour":"3300FF"
+                 "colour":"D01D79"
                  }
                  ],
         "results":[
                    {
-                   "popularity":51,
-                   "winPercentage":51,
-                   "final":255
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":49,
-                   "winPercentage":49,
-                   "final":245
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
@@ -80,22 +80,22 @@
     "jp":{
         "id":5,
         "updateTime":1441927394,
-        "startTime":1442026800,
-        "endTime":1442113200,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/e/eb/Japanese_Splatfest_Boke_vs_Tsukkomi.jpg",
+        "startTime":1444435200,
+        "endTime":1444521600,
+        "image":"http://cdn.wikimg.net/splatoonwiki/images/2/2f/Japanese_Splatfest_Squid_vs_Octopus.jpg",
         "maps":[
-                "Urchin Underpass",
-                "Saltspray Rig",
-                "Moray Towers"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"ボケ",
-                 "colour":"F36409"
+                 "name":"イカ",
+                 "colour":"6bc3e0"
                  },
                  {
-                 "name":"ツッコミ",
-                 "colour":"219ADA"
+                 "name":"タコ",
+                 "colour":"ca4b59"
                  },
                  {
                  "name":"NEUTRAL",
@@ -104,14 +104,14 @@
                  ],
         "results":[
                    {
-                   "popularity":43,
-                   "winPercentage":49,
-                   "final":239
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":57,
-                   "winPercentage":51,
-                   "final":261
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
