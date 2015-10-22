@@ -6,17 +6,17 @@
         "endTime":1444536000,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/d/dc/North_American_Splatfest_Cars_vs_Planes.jpg",
         "maps":[
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP"
+                "BLACKBELLY_SKATEPARK",
+                "PORT_MACKEREL",
+                "KELP_DOME"
                 ],
         "teams":[
                  {
-                 "name":"Car",
+                 "name":"Cars",
                  "colour":"f98c19"
                  },
                  {
-                 "name":"Plane",
+                 "name":"Planes",
                  "colour":"144cc8"
                  },
                  {
@@ -26,14 +26,14 @@
                  ],
         "results":[
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":36,
+                   "winPercentage":54,
+                   "final":252
                    },
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":64,
+                   "winPercentage":46,
+                   "final":248
                    }
                    ]
     },
@@ -41,22 +41,22 @@
     "eu":{
         "id":5,
         "updateTime":1442070719,
-        "startTime":1442682000,
-        "endTime":1442768400,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/7/7a/European_Splatfest_Messy_vs_Tidy.jpg",
+        "startTime":1445101200,
+        "endTime":1445187600,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/8/8c/North_American_Splatfest_Cats_vs_Dogs.jpg",
         "maps":[
-                "URCHIN_UNDERPASS",
-                "BLUEFIN_DEPOT",
-                "HAMMERHEAD_BRIDGE"
+                "WALLEYE_WAREHOUSE",
+                "SALTSPRAY_RIG",
+                "MORAY_TOWERS"
                 ],
         "teams":[
                  {
-                 "name":"Messy",
-                 "colour":"faad30"
+                 "name":"Cats",
+                 "colour":"f16219"
                  },
                  {
-                 "name":"Tidy",
-                 "colour":"4a40e5"
+                 "name":"Dogs",
+                 "colour":"3fd8b6"
                  },
                  {
                  "name":"NEUTRAL",
@@ -65,14 +65,14 @@
                  ],
         "results":[
                    {
-                   "popularity":56,
-                   "winPercentage":52,
-                   "final":264
+                   "popularity":46,
+                   "winPercentage":56,
+                   "final":270
                    },
                    {
-                   "popularity":44,
-                   "winPercentage":48,
-                   "final":236
+                   "popularity":54,
+                   "winPercentage":44,
+                   "final":230
                    }
                    ]
     },
@@ -84,9 +84,9 @@
         "endTime":1444521600,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/2/2f/Japanese_Splatfest_Squid_vs_Octopus.jpg",
         "maps":[
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP"
+                "PORT_MACKEREL",
+                "BLUEFIN_DEPOT",
+                "HAMMERHEAD_BRIDGE"
                 ],
         "teams":[
                  {
@@ -104,14 +104,14 @@
                  ],
         "results":[
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":66,
+                   "winPercentage":47,
+                   "final":254
                    },
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":34,
+                   "winPercentage":53,
+                   "final":246
                    }
                    ]
     },
