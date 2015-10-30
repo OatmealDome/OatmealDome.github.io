@@ -1,46 +1,40 @@
 {
     "na":{
-        "id":6,
-        "updateTime":1443822615,
-        "startTime":1444449600,
-        "endTime":1444536000,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/d/dc/North_American_Splatfest_Cars_vs_Planes.jpg",
+        "id":7,
+        "startTime":1446256800,
+        "endTime":1446343200,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/2/23/North_American_Splatfest_Pirates_vs_Ninjas.jpg",
         "maps":[
-                "BLACKBELLY_SKATEPARK",
-                "PORT_MACKEREL",
-                "KELP_DOME"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"Cars",
-                 "colour":"f98c19"
+                 "name":"Pirates",
+                 "colour":"a7e92f"
                  },
                  {
-                 "name":"Planes",
-                 "colour":"144cc8"
-                 },
-                 {
-                 "name":"NEUTRAL",
-                 "colour":"D01D79"
+                 "name":"Ninjas",
+                 "colour":"ab00f9"
                  }
                  ],
         "results":[
                    {
-                   "popularity":36,
-                   "winPercentage":54,
-                   "final":252
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":64,
-                   "winPercentage":46,
-                   "final":248
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
     
     "eu":{
         "id":6,
-        "updateTime":1442070719,
         "startTime":1445101200,
         "endTime":1445187600,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/8/8c/North_American_Splatfest_Cats_vs_Dogs.jpg",
@@ -57,10 +51,6 @@
                  {
                  "name":"Dogs",
                  "colour":"3fd8b6"
-                 },
-                 {
-                 "name":"NEUTRAL",
-                 "colour":"00FF00"
                  }
                  ],
         "results":[
@@ -78,50 +68,44 @@
     },
     
     "jp":{
-        "id":6,
-        "updateTime":1441927394,
-        "startTime":1444435200,
-        "endTime":1444521600,
+        "id":7,
+        "startTime":1446249600,
+        "endTime":1446336000,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/2/2f/Japanese_Splatfest_Squid_vs_Octopus.jpg",
         "maps":[
-                "PORT_MACKEREL",
-                "BLUEFIN_DEPOT",
-                "HAMMERHEAD_BRIDGE"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"イカ",
-                 "colour":"6bc3e0"
+                 "name":"愛",
+                 "colour":"db0061"
                  },
                  {
-                 "name":"タコ",
-                 "colour":"ca4b59"
-                 },
-                 {
-                 "name":"NEUTRAL",
-                 "colour":"D01D79"
+                 "name":"おカネ",
+                 "colour":"f3c625"
                  }
                  ],
         "results":[
                    {
-                   "popularity":66,
-                   "winPercentage":47,
-                   "final":254
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":34,
-                   "winPercentage":53,
-                   "final":246
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
     
     "debug":{
         "id":2,
-        "updateTime":1443579751,
         "startTime":1445551272,
         "endTime":1445632882,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/e/eb/Japanese_Splatfest_Boke_vs_Tsukkomi.jpg",
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/1/1b/Japanese_Splatfest_Love_vs_Money.jpg",
         "maps":[
                 "BLACKBELLY_SKATEPARK",
                 "PORT_MACKEREL",
@@ -135,10 +119,6 @@
                  {
                  "name":"Blue",
                  "colour":"219ADA"
-                 },
-                 {
-                 "name":"NEUTRAL",
-                 "colour":"D01D79"
                  }
                  ],
         "results":[
