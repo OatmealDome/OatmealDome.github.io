@@ -1,13 +1,13 @@
 {
     "na":{
         "id":7,
-        "startTime":1446256800,
-        "endTime":1446343200,
+        "startTime":1446264000,
+        "endTime":1446350400,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/2/23/North_American_Splatfest_Pirates_vs_Ninjas.jpg",
         "maps":[
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP"
+                "WALLEYE_WAREHOUSE",
+                "CAMP_TRIGGERFISH",
+                "MORAY_TOWERS"
                 ],
         "teams":[
                  {
