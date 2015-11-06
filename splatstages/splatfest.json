@@ -21,48 +21,48 @@
                  ],
         "results":[
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":28,
+                   "winPercentage":59,
+                   "final":283
                    },
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":72,
+                   "winPercentage":41,
+                   "final":318
                    }
                    ]
     },
     
     "eu":{
-        "id":6,
-        "startTime":1445101200,
-        "endTime":1445187600,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/8/8c/North_American_Splatfest_Cats_vs_Dogs.jpg",
+        "id":7,
+        "startTime":1446919200,
+        "endTime":1447005600,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/e/e4/European_Splatfest_Zombies_vs_Ghosts.jpg",
         "maps":[
-                "WALLEYE_WAREHOUSE",
-                "SALTSPRAY_RIG",
-                "MORAY_TOWERS"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"Cats",
-                 "colour":"f16219"
+                 "name":"Zombies",
+                 "colour":"7729ff"
                  },
                  {
-                 "name":"Dogs",
-                 "colour":"3fd8b6"
+                 "name":"Ghosts",
+                 "colour":"03caa0"
                  }
                  ],
         "results":[
                    {
-                   "popularity":46,
-                   "winPercentage":56,
-                   "final":270
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":54,
-                   "winPercentage":44,
-                   "final":230
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
@@ -89,14 +89,14 @@
                  ],
         "results":[
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":47,
+                   "winPercentage":51,
+                   "final":353
                    },
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":53,
+                   "winPercentage":49,
+                   "final":347
                    }
                    ]
     },
