@@ -39,9 +39,9 @@
         "endTime":1447005600,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/e/e4/European_Splatfest_Zombies_vs_Ghosts.jpg",
         "maps":[
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP"
+                "BLACKBELLY_SKATEPARK",
+                "CAMP_TRIGGERFISH",
+                "PORT_MACKEREL"
                 ],
         "teams":[
                  {
