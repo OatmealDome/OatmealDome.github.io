@@ -68,10 +68,10 @@
     },
     
     "jp":{
-        "id":8,
-        "startTime":1446249600,
-        "endTime":1446336000,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/1/1b/Japanese_Splatfest_Love_vs_Money.jpg",
+        "id":9,
+        "startTime":1448074800,
+        "endTime":1448161200,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/6/63/Japanese_Splatfest_Mountain_Food_vs_Sea_Food.jpg",
         "maps":[
                 "UNKNOWN_MAP",
                 "UNKNOWN_MAP",
@@ -79,24 +79,24 @@
                 ],
         "teams":[
                  {
-                 "name":"愛",
-                 "colour":"db0061"
+                 "name":"山の幸",
+                 "colour":"c44651"
                  },
                  {
-                 "name":"おカネ",
-                 "colour":"f3c625"
+                 "name":"海の幸",
+                 "colour":"00d9a8"
                  }
                  ],
         "results":[
                    {
-                   "popularity":47,
-                   "winPercentage":51,
-                   "final":353
+                   "popularity":48,
+                   "winPercentage":49,
+                   "final":342
                    },
                    {
-                   "popularity":53,
-                   "winPercentage":49,
-                   "final":347
+                   "popularity":52,
+                   "winPercentage":51,
+                   "final":358
                    }
                    ]
     },
