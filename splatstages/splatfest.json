@@ -1,34 +1,34 @@
 {
     "na":{
-        "id":7,
-        "startTime":1446264000,
-        "endTime":1446350400,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/2/23/North_American_Splatfest_Pirates_vs_Ninjas.jpg",
+        "id":8,
+        "startTime":1449291600,
+        "endTime":1449378000,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/d/d1/North_American_Splatfest_Burgers_vs_Pizza.jpg",
         "maps":[
-                "WALLEYE_WAREHOUSE",
-                "CAMP_TRIGGERFISH",
-                "MORAY_TOWERS"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"Pirates",
-                 "colour":"a7e92f"
+                 "name":"Burgers",
+                 "colour":"ff8b00"
                  },
                  {
-                 "name":"Ninjas",
-                 "colour":"ab00f9"
+                 "name":"Pizza",
+                 "colour":"a0e902"
                  }
                  ],
         "results":[
                    {
-                   "popularity":28,
-                   "winPercentage":59,
-                   "final":382
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":72,
-                   "winPercentage":41,
-                   "final":318
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
