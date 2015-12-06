@@ -1,0 +1,111 @@
+{
+    "updateTime":1449424880440,
+    "schedule":[
+                {
+                "modes":[
+                         {
+                         "maps":[
+                                 {
+                                 "nameJP":"マサバ海峡大橋",
+                                 "nameEN":"Hammerhead Bridge",
+                                 "name":{
+                                 "jp":"マサバ海峡大橋",
+                                 "en":"Hammerhead Bridge"
+                                 }
+                                 },
+                                 {
+                                 "nameJP":"キンメダイ美術館",
+                                 "nameEN":"Museum d'Alfonsino",
+                                 "name":{
+                                 "jp":"キンメダイ美術館",
+                                 "en":"Museum d'Alfonsino"
+                                 }
+                                 }
+                                 ],
+                         "rules":{
+                         "jp":"ナワバリバトル",
+                         "en":"Turf War"
+                         }
+                         },
+                         {
+                         "maps":[
+                                 {
+                                 "nameJP":"マサバ海峡大橋",
+                                 "nameEN":"Hammerhead Bridge",
+                                 "name":{
+                                 "jp":"マサバ海峡大橋",
+                                 "en":"Hammerhead Bridge"
+                                 }
+                                 },
+                                 {
+                                 "nameJP":"キンメダイ美術館",
+                                 "nameEN":"Museum d'Alfonsino",
+                                 "name":{
+                                 "jp":"キンメダイ美術館",
+                                 "en":"Museum d'Alfonsino"
+                                 }
+                                 }
+                                 ],
+                         "rules":{
+                         "jp":"ナワバリバトル",
+                         "en":"Turf War"
+                         }
+                         }
+                         ],
+                "startTime":1449424800000,
+                "endTime":1449439200000,
+                "regular":{
+                "maps":[
+                        {
+                        "nameJP":"マサバ海峡大橋",
+                        "nameEN":"Hammerhead Bridge",
+                        "name":{
+                        "jp":"マサバ海峡大橋",
+                        "en":"Hammerhead Bridge"
+                        }
+                        },
+                        {
+                        "nameJP":"キンメダイ美術館",
+                        "nameEN":"Museum d'Alfonsino",
+                        "name":{
+                        "jp":"キンメダイ美術館",
+                        "en":"Museum d'Alfonsino"
+                        }
+                        }
+                        ],
+                "rules":{
+                "jp":"ナワバリバトル",
+                "en":"Turf War"
+                }
+                },
+                "ranked":{
+                "maps":[
+                        {
+                        "nameJP":"ネギトロ炭鉱",
+                        "nameEN":"Bluefin Depot",
+                        "name":{
+                        "jp":"ネギトロ炭鉱",
+                        "en":"Bluefin Depot"
+                        }
+                        },
+                        {
+                        "nameJP":"ヒラメが丘団地",
+                        "nameEN":"Flounder Heights",
+                        "name":{
+                        "jp":"ヒラメが丘団地",
+                        "en":"Flounder Heights"
+                        }
+                        }
+                        ],
+                "rulesJP":"ガチヤグラ",
+                "rulesEN":"Tower Control",
+                "rules":{
+                "jp":"ガチヤグラ",
+                "en":"Tower Control"
+                }
+                }
+                }
+                ],
+    "splatfest":false
+    
+}
