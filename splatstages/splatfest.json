@@ -1,34 +1,34 @@
 {
     "na":{
-        "id":8,
-        "startTime":1449291600,
-        "endTime":1449378000,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/d/d1/North_American_Splatfest_Burgers_vs_Pizza.jpg",
+        "id":9,
+        "startTime":1450501200,
+        "endTime":1450587600,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/5/53/North_American_Naughty_vs_Nice.jpg",
         "maps":[
-                "SALTSPRAY_RIG",
-                "AROWANA_MALL",
-                "MUSEUM_DALFONSINO"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"Burgers",
-                 "colour":"ff8b00"
+                 "name":"Naughty",
+                 "colour":"CF3350"
                  },
                  {
-                 "name":"Pizza",
-                 "colour":"a0e902"
+                 "name":"Nice",
+                 "colour":"008040"
                  }
                  ],
         "results":[
                    {
-                   "popularity":37,
-                   "winPercentage":56,
-                   "final":373
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":63,
-                   "winPercentage":44,
-                   "final":327
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
