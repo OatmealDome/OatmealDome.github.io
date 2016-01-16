@@ -68,35 +68,35 @@
     },
     
     "jp":{
-        "id":9,
-        "startTime":1448074800,
-        "endTime":1448161200,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/6/63/Japanese_Splatfest_Mountain_Food_vs_Sea_Food.jpg",
+        "id":10,
+        "startTime":1453518000,
+        "endTime":1453604400,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/5/52/Japanese_Splatfest_Body_vs_Brain.jpg",
         "maps":[
-                "KELP_DOME",
-                "HAMMERHEAD_BRIDGE",
-                "MUSEUM_DALFONSINO"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"山の幸",
+                 "name":"カラダ",
                  "colour":"c44651"
                  },
                  {
-                 "name":"海の幸",
+                 "name":"頭脳",
                  "colour":"00d9a8"
                  }
                  ],
         "results":[
                    {
-                   "popularity":48,
-                   "winPercentage":49,
-                   "final":342
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":52,
-                   "winPercentage":51,
-                   "final":358
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
