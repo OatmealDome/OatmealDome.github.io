@@ -1,9 +1,9 @@
 {
     "na":{
-        "id":9,
-        "startTime":1450501200,
-        "endTime":1450587600,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/5/53/North_American_Naughty_vs_Nice.jpg",
+        "id":10,
+        "startTime":1452920400,
+        "endTime":1453006800,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/5/50/North_American_Splatfest_Past_vs._Future.jpg",
         "maps":[
                 "UNKNOWN_MAP",
                 "UNKNOWN_MAP",
@@ -11,12 +11,12 @@
                 ],
         "teams":[
                  {
-                 "name":"Naughty",
-                 "colour":"CF3350"
+                 "name":"Past",
+                 "colour":"00c8a2"
                  },
                  {
-                 "name":"Nice",
-                 "colour":"008040"
+                 "name":"Future",
+                 "colour":"e76247"
                  }
                  ],
         "results":[
@@ -35,8 +35,8 @@
     
     "eu":{
         "id":9,
-        "startTime":1452914064,
-        "endTime":1452914064,
+        "startTime":1449943200,
+        "endTime":1449943200,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/9/91/European_Splatfest_Fit_vs_Rich.jpg",
         "maps":[
                 "UNKNOWN_MAP",
