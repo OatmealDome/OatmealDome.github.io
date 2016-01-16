@@ -34,35 +34,35 @@
     },
     
     "eu":{
-        "id":8,
-        "startTime":1449943200,
-        "endTime":1450029600,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/f/f0/European_Splatfest_Delicious_vs_Disgusting.jpg",
+        "id":9,
+        "startTime":1452914064,
+        "endTime":1452914064,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/9/91/European_Splatfest_Fit_vs_Rich.jpg",
         "maps":[
-                "AROWANA_MALL",
-                "KELP_DOME",
-                "MUSEUM_DALFONSINO"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"Delicious",
-                 "colour":"df651d"
+                 "name":"Fit",
+                 "colour":"00b773"
                  },
                  {
-                 "name":"Disgusting",
-                 "colour":"9e00dc"
+                 "name":"Rich",
+                 "colour":"fe861d"
                  }
                  ],
         "results":[
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":44,
+                   "winPercentage":54,
+                   "final":362
                    },
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":56,
+                   "winPercentage":47,
+                   "final":338
                    }
                    ]
     },
