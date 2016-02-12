@@ -1,22 +1,22 @@
 {
     "na":{
-        "id":10,
-        "startTime":1452920400,
-        "endTime":1453006800,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/5/50/North_American_Splatfest_Past_vs._Future.jpg",
+        "id":11,
+        "startTime":1455948000,
+        "endTime":1456034400,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/8/80/Splatfest_Pokemon_Red_vs._Pokemon_Blue.png",
         "maps":[
-                "KELP_DOME",
-                "HAMMERHEAD_BRIDGE",
-                "PIRANHA_PIT"
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP",
+                "UNKNOWN_MAP"
                 ],
         "teams":[
                  {
-                 "name":"Past",
-                 "colour":"00c8a2"
+                 "name":"Red",
+                 "colour":"b43a0c"
                  },
                  {
-                 "name":"Future",
-                 "colour":"e76247"
+                 "name":"Blue",
+                 "colour":"3c6eab"
                  }
                  ],
         "results":[
@@ -34,10 +34,10 @@
     },
     
     "eu":{
-        "id":9,
-        "startTime":1449943200,
-        "endTime":1449943200,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/9/91/European_Splatfest_Fit_vs_Rich.jpg",
+        "id":10,
+        "startTime":1455948000,
+        "endTime":1456034400,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/8/80/Splatfest_Pokemon_Red_vs._Pokemon_Blue.png",
         "maps":[
                 "UNKNOWN_MAP",
                 "UNKNOWN_MAP",
@@ -45,33 +45,33 @@
                 ],
         "teams":[
                  {
-                 "name":"Fit",
-                 "colour":"00b773"
+                 "name":"Red",
+                 "colour":"b43a0c"
                  },
                  {
-                 "name":"Rich",
-                 "colour":"fe861d"
+                 "name":"Blue",
+                 "colour":"3c6eab"
                  }
                  ],
         "results":[
                    {
-                   "popularity":44,
-                   "winPercentage":54,
-                   "final":362
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    },
                    {
-                   "popularity":56,
-                   "winPercentage":47,
-                   "final":338
+                   "popularity":0,
+                   "winPercentage":0,
+                   "final":0
                    }
                    ]
     },
     
     "jp":{
-        "id":10,
-        "startTime":1453518000,
-        "endTime":1453604400,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/5/52/Japanese_Splatfest_Body_vs_Brain.jpg",
+        "id":11,
+        "startTime":1455948000,
+        "endTime":1456034400,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/8/8d/Splatfest_Pokemon_Red_vs._Pokemon_Green.png",
         "maps":[
                 "UNKNOWN_MAP",
                 "UNKNOWN_MAP",
@@ -79,12 +79,12 @@
                 ],
         "teams":[
                  {
-                 "name":"カラダ",
-                 "colour":"c44651"
+                 "name":"赤",
+                 "colour":"b43a0c"
                  },
                  {
-                 "name":"頭脳",
-                 "colour":"00d9a8"
+                 "name":"緑",
+                 "colour":"00b145"
                  }
                  ],
         "results":[
