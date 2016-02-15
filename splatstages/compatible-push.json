@@ -1,0 +1,26 @@
+{
+	"gamemodes": [
+				  "TURF_WAR",
+				  "SPLAT_ZONES",
+				  "TOWER_CONTROL",
+				  "RAINMAKER"
+	],
+	"stages": [
+			   "AROWANA_MALL",
+			   "BLACKBELLY_SKATEPARK",
+			   "BLUEFIN_DEPOT",
+			   "CAMP_TRIGGERFISH",
+			   "FLOUNDER_HEIGHTS",
+			   "KELP_DOME",
+			   "MORAY_TOWERS",
+			   "PORT_MACKEREL",
+			   "SALTSPRAY_RIG",
+			   "URCHIN_UNDERPASS",
+			   "WALLEYE_WAREHOUSE",
+			   "HAMMERHEAD_BRIDGE",
+			   "MUSEUM_DALFONSINO",
+			   "MAHIMAHI_RESORT",
+			   "PIRANHA_PIT",
+			   "ANCHOV_GAMES"
+	]
+}
