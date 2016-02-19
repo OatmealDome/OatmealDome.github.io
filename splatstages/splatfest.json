@@ -35,8 +35,8 @@
     
     "eu":{
         "id":10,
-        "startTime":1455948000,
-        "endTime":1456034400,
+        "startTime":1455940800,
+        "endTime":1456027200,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/8/80/Splatfest_Pokemon_Red_vs._Pokemon_Blue.png",
         "maps":[
                 "UNKNOWN_MAP",
@@ -69,8 +69,8 @@
     
     "jp":{
         "id":11,
-        "startTime":1455948000,
-        "endTime":1456034400,
+        "startTime":1455915600,
+        "endTime":1456002000,
         "image":"https://cdn.wikimg.net/splatoonwiki/images/8/8d/Splatfest_Pokemon_Red_vs._Pokemon_Green.png",
         "maps":[
                 "UNKNOWN_MAP",
