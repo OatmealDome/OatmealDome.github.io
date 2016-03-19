@@ -34,23 +34,23 @@
     },
     
     "eu":{
-        "id":10,
-        "startTime":1455940800,
-        "endTime":1456027200,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/8/80/Splatfest_Pokemon_Red_vs._Pokemon_Blue.png",
+        "id":11,
+        "startTime":1458410400,
+        "endTime":1458496800,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/6/66/European_Splatfest_Hoverboard_vs_Jetpack.jpg",
         "maps":[
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP",
-                "UNKNOWN_MAP"
+                "SALTSPRAY_RIG",
+                "MORAY_TOWERS",
+                "MAHIMAHI_RESORT"
                 ],
         "teams":[
                  {
-                 "name":"Red",
-                 "colour":"b43a0c"
+                 "name":"Hoverboard",
+                 "colour":"00d382"
                  },
                  {
-                 "name":"Blue",
-                 "colour":"3c6eab"
+                 "name":"Jetpack",
+                 "colour":"f80043"
                  }
                  ],
         "results":[
@@ -68,35 +68,35 @@
     },
     
     "jp":{
-        "id":11,
+        "id":12,
         "startTime":1455915600,
         "endTime":1456002000,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/8/8d/Splatfest_Pokemon_Red_vs._Pokemon_Green.png",
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/5/5d/Splatfest_Go_all_out%21_vs._Focus_on_healing.jpg",
         "maps":[
-                "URCHIN_UNDERPASS",
-                "CAMP_TRIGGERFISH",
-                "MUSEUM_DALFONSINO"
+                "BLACKBELLY_SKATEPARK",
+                "MORAY_TOWERS",
+                "MAHIMAHI_RESORT"
                 ],
         "teams":[
                  {
-                 "name":"赤",
-                 "colour":"b43a0c"
+                 "name":"ガンガンいこうぜ",
+                 "colour":"d80047"
                  },
                  {
-                 "name":"緑",
-                 "colour":"00b145"
+                 "name":"いのちだいじに",
+                 "colour":"e4ea2e"
                  }
                  ],
         "results":[
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":46,
+                   "winPercentage":48,
+                   "final":334
                    },
                    {
-                   "popularity":0,
-                   "winPercentage":0,
-                   "final":0
+                   "popularity":54,
+                   "winPercentage":52,
+                   "final":366
                    }
                    ]
     },
