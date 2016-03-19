@@ -1,22 +1,22 @@
 {
     "na":{
-        "id":11,
-        "startTime":1455948000,
-        "endTime":1456034400,
-        "image":"https://cdn.wikimg.net/splatoonwiki/images/8/80/Splatfest_Pokemon_Red_vs._Pokemon_Blue.png",
+        "id":12,
+        "startTime":1458360000,
+        "endTime":1458446400,
+        "image":"https://cdn.wikimg.net/splatoonwiki/images/e/ea/North_American_Splatfest_Snowman_vs._Sandcastle.jpg",
         "maps":[
-                "BLACKBELLY_SKATEPARK",
-                "CAMP_TRIGGERFISH",
-                "ANCHOV_GAMES"
+                "AROWANA_MALL",
+                "MUSEUM_DALFONSINO",
+                "MAHIMAHI_RESORT"
                 ],
         "teams":[
                  {
-                 "name":"Red",
-                 "colour":"b43a0c"
+                 "name":"Snowman",
+                 "colour":"06a8a0"
                  },
                  {
-                 "name":"Blue",
-                 "colour":"3c6eab"
+                 "name":"Sandcastle",
+                 "colour":"fab325"
                  }
                  ],
         "results":[
