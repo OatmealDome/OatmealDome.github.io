@@ -1,4 +1,8 @@
 <UpdateInfo>
 	<latestVersion>1.0.1.0</latestVersion>
-	<changes></changes>
+	<changes>TO ALL PLAYLIST PRE-RELEASE USERS - Please IGNORE this update prompt! Instead, contact OatmealDome for a new pre-release build that fixes this bug.
+
+Bug fixes:
+
+- Nintendo changed the BGM for the last 24 hours to Calamari Inkantation, which MusicRandomizer did not identify as multiplayer BGM. This has been fixed.</changes>
 </UpdateInfo>
