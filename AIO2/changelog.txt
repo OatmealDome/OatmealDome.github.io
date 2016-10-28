@@ -1,8 +1,11 @@
 [1.3.1.0] Whoops.
 
+Apologies for the terrible formatting in this text box, it has been fixed in this new version.
+
 Changes:
 
 - Fix a bug where the AIO would say that it is incompatible with the latest Splatoon version
 - Update some Octohax offsets
+- Make the update prompt prettier
 
 (This is what I get for not testing things before I release.)
