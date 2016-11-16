@@ -1,4 +1,10 @@
 <UpdateInfo>
-	<latestVersion>1.0.0.0</latestVersion>
-	<changes>Initial Release</changes>
+	<production>
+		<latestVersion>1.0.0.0</latestVersion>
+		<changes>Initial Release</changes>
+	</production>
+	<prerelease>
+		<latestVersion>1.0.0.0</latestVersion>
+		<changes>Initial Release</changes>
+	</prerelease>
 </UpdateInfo>
