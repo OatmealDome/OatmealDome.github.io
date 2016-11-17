@@ -4,7 +4,7 @@
 		<changes>Initial Release</changes>
 	</production>
 	<prerelease>
-		<latestVersion>1.0.0.0</latestVersion>
+		<latestVersion>0.0.0.1</latestVersion>
 		<changes>Initial Release</changes>
 	</prerelease>
 </UpdateInfo>
