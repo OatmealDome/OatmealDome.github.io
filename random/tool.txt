@@ -1,3 +1,3 @@
 // line 3: splattershot jr (weapon slot 1), "ToHu", progress bits, equipped clothes, equipped shoes, equipped hat, gender, money, experience, level, rank letter, rank num, sea snails
-true
+false
 315469216,274658304,315431972,315432320,315432324,315432328,315432336,315474336,315474340,315474344,315474348,315474352,315474356
